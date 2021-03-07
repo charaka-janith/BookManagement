@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "BookManagement",
+    "slug": "BookManagement",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "icon": "./assets/icon.jpg",
+    "splash": {
+      "image": "./assets/lights.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#f0f3f5"
+    }
+  }
+}
